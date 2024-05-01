@@ -87,9 +87,47 @@ pyinstaller -F -i "mylogo.ico"--add-data "Additionalimage.png;." myprogram.py --
 
 ![image](https://github.com/MuhammadRaheelNaseem/Python-to-Executable/assets/63813881/a2902d69-e8c4-4fd1-b136-2504fe70b76f)
 
+![image](https://github.com/MuhammadRaheelNaseem/Python-to-Executable/assets/63813881/1f828c46-761f-462b-80fe-38947c6f7022)
 
+![image](https://github.com/MuhammadRaheelNaseem/Python-to-Executable/assets/63813881/821b9101-9026-4e43-88ed-29e4fb30d978)
 
+![image](https://github.com/MuhammadRaheelNaseem/Python-to-Executable/assets/63813881/a8342b28-47da-48ef-9069-8baad111aa7d)
 
+![image](https://github.com/MuhammadRaheelNaseem/Python-to-Executable/assets/63813881/869a516b-9763-4601-8a78-4f25789e29e6)
+
+![image](https://github.com/MuhammadRaheelNaseem/Python-to-Executable/assets/63813881/3a65cb5b-e199-456d-b0fd-15a496d8fc2f)
+
+![image](https://github.com/MuhammadRaheelNaseem/Python-to-Executable/assets/63813881/8baa146c-dd04-4763-833c-d445dd123fc1)
+
+![image](https://github.com/MuhammadRaheelNaseem/Python-to-Executable/assets/63813881/1ed4c5a4-e792-4b56-861d-91835067fda9)
+
+![image](https://github.com/MuhammadRaheelNaseem/Python-to-Executable/assets/63813881/4e9bb4f8-e2c7-4fef-b004-33a84bfd812a)
+
+![image](https://github.com/MuhammadRaheelNaseem/Python-to-Executable/assets/63813881/ec48c020-5b57-4ac5-a0f2-0b8740a1e898)
+
+![image](https://github.com/MuhammadRaheelNaseem/Python-to-Executable/assets/63813881/61af017e-1549-4ed0-9136-a798b5b65705)
+
+### Now we are try to install our setup file:
+
+![image](https://github.com/MuhammadRaheelNaseem/Python-to-Executable/assets/63813881/fde8d4c9-c1f2-44e1-8df0-01b5d3d7b440)
+
+![image](https://github.com/MuhammadRaheelNaseem/Python-to-Executable/assets/63813881/42e752c4-11c7-490a-83e9-a8869f23467b)
+
+![image](https://github.com/MuhammadRaheelNaseem/Python-to-Executable/assets/63813881/576354c9-66bd-4abc-836c-d1db8233eb79)
+
+![image](https://github.com/MuhammadRaheelNaseem/Python-to-Executable/assets/63813881/b19aee1a-1d20-4910-944c-ecdd9dc351bd)
+
+![image](https://github.com/MuhammadRaheelNaseem/Python-to-Executable/assets/63813881/e46d2f47-7f48-4117-a979-3322e4ec23a7)
+
+![image](https://github.com/MuhammadRaheelNaseem/Python-to-Executable/assets/63813881/d10f46e1-44f3-40a6-816e-c43ebad90dd5)
+
+![image](https://github.com/MuhammadRaheelNaseem/Python-to-Executable/assets/63813881/07734970-40fa-49cf-914f-2509c21ef76c)
+
+![image](https://github.com/MuhammadRaheelNaseem/Python-to-Executable/assets/63813881/446116eb-ac85-424b-a44f-2515f14ae7b8)
+
+![image](https://github.com/MuhammadRaheelNaseem/Python-to-Executable/assets/63813881/e2632e68-c414-45bf-a0fb-f3ebece00975)
+
+![image](https://github.com/MuhammadRaheelNaseem/Python-to-Executable/assets/63813881/446116eb-ac85-424b-a44f-2515f14ae7b8)
 
 
 
