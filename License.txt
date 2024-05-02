@@ -1,0 +1,13 @@
+[License Agreement]
+
+1. Grant of License: This license agreement ("Agreement") grants you the right to use the software product ("Software") and its associated documentation ("Documentation") as provided by XPACE TECHNOLOGIES for personal or commercial purposes. By installing, copying, or otherwise using the Software, you agree to be bound by the terms and conditions of this Agreement.
+
+2. Ownership: The Software and Documentation are owned by XPACE TECHNOLOGIES and are protected by copyright laws and international treaties. XPACE TECHNOLOGIES retains all rights not expressly granted to you in this Agreement.
+
+3. Permitted Uses: You may install and use the Software on a single computer, or on multiple computers if you have purchased multiple licenses. You may make one copy of the Software solely for backup or archival purposes. You may not distribute copies of the Software to third parties.
+
+4. Limitation of Liability: In no event shall XPACE TECHNOLOGIES or its suppliers be liable for any damages (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) arising out of the use of or inability to use the Software, even if XPACE TECHNOLOGIES has been advised of the possibility of such damages.
+
+5. Governing Law: This Agreement shall be governed by and construed in accordance with the laws of Pakistan, without regard to its conflict of law principles.
+
+By installing, copying, or otherwise using the Software, you acknowledge that you have read, understood, and agree to be bound by the terms and conditions of this Agreement.
