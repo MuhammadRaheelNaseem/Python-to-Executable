@@ -54,7 +54,7 @@ pyinstaller -F -i "mylogo.ico"--add-data "Additionalimage.png;." myprogram.py --
 
 - However if you want your application (.exe) as setup file, windows installer will extract the installation resources from itself and manage their installation directly then, go with the below steps.
 
-4. Install <a href="https://github.com/Abhijeetbyte/Python-Script-to-Application/blob/main/tools/innosetup-6.1.2.exe">Inno Setup</a> Compiler free application and Pyinstaller.
+4. Install <a href="https://jrsoftware.org/isdl.php">Inno Setup</a> Compiler free application and Pyinstaller.
 
      Your computer must be running Python3 or newer.
 
